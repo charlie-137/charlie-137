@@ -20,7 +20,7 @@
 
 - 📝 I’m currently learning **DSA(JAVA)**
 
-- 🤝 I’m looking for help with **React JS**
+- 🤝 I’m looking for help with **Angular JS**
 
 - 💬 Ask me about **Android**
 
